@@ -1,1 +1,1 @@
-# FreeCodeCamp-Relational-Database-course
+Projects I built as part of FreeCodeCamp's Relational Database certification course.
